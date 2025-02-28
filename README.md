@@ -1,3 +1,3 @@
 # ShivDemoFirst
-This project is being made while learning github. Recommended to be kept private
+This project is being made while learning github.
 hi i m making a change inn the file.
